@@ -14,4 +14,5 @@ Avnish("hows your day")
 adding(5,5)
 print(returna(6,9))
 
-
+def Loop(i10):
+pass
