@@ -27,3 +27,9 @@ print(obj.substraction())
 obj1 = Calculator(4, 3)
 obj1.Avnish()
 print(obj1.substraction())
+
+
+obj1 = Calculator(4, 3)
+obj1.Avnish()
+print(obj1.substraction())
+
