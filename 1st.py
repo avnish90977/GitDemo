@@ -7,7 +7,8 @@ print(type(a))
 print(type(c))
 print(type(b))
 
-#C:\Users\yadav\1 Comntributer>git pull origin master
+'''
+C:\Users\yadav\1 Comntributer>git pull origin master
 remote: Enumerating objects: 7, done.
 remote: Counting objects: 100% (7/7), done.
 remote: Compressing objects: 100% (1/1), done.
@@ -17,4 +18,4 @@ From https://github.com/avnish90977/GitDemo
  * branch            master     -> FETCH_HEAD
    2dd2919..37d0f4e  master     -> origin/master
 Updating 2dd2919..37d0f4e
-Fast-forward
+Fast-forward'''
