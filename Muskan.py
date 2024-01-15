@@ -12,6 +12,10 @@ class Calculator:
 
     def substraction(self):
         return self.enter1 + self.enter2 + Calculator.digit
+    
+    def NewGitub_code():
+        num1 + num 2
+        print("final output")
 
 
 
